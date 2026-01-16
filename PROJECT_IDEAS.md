@@ -1,6 +1,6 @@
 # 自作プロジェクトのアイデア
 
-NOT A HOTELの技術スタック（Cloud Run、Cloud Spanner）に寄せた実践的なプロジェクト案です。
+技術スタック（Cloud Run、Cloud Spanner）に寄せた実践的なプロジェクト案です。
 
 ## 予約管理API
 
