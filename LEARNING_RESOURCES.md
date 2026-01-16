@@ -42,3 +42,5 @@ AleksK1NGさんのリポジトリは、gRPC、PostgreSQL、Redis、Prometheus、
    ↓
 3. 自分で小さなプロジェクトを作ってみる
 ```
+
+自作プロジェクトのアイデアは [PROJECT_IDEAS.md](./PROJECT_IDEAS.md) を参照。

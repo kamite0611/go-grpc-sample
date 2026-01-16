@@ -40,3 +40,7 @@ cd grpc-tutorial
 - [go-clean-architecture](https://github.com/brandon-a-pinto/go-clean-architecture) - Goのクリーンアーキテクチャ実装例
 
 詳細な学習リソースは [LEARNING_RESOURCES.md](./LEARNING_RESOURCES.md) を参照してください。
+
+## 自作プロジェクトのアイデア
+
+学習後に作ってみたいプロジェクト案は [PROJECT_IDEAS.md](./PROJECT_IDEAS.md) を参照してください。
