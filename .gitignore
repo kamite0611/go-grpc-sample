@@ -1,0 +1,30 @@
+# バイナリ
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# テスト
+*.test
+*.out
+coverage.html
+
+# 依存関係（通常はコミットしない）
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 環境変数
+.env
+.env.local
