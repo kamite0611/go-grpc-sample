@@ -33,3 +33,10 @@ cd grpc-tutorial
 2. *(予定)* ストリーミングRPC
 3. *(予定)* 認証・メタデータ
 4. *(予定)* Cloud Spanner連携
+
+## 参考リポジトリ
+
+- [go-clean-arch-grpc](https://github.com/bxcodec/go-clean-arch-grpc) - クリーンアーキテクチャ + gRPCの実装例
+- [go-clean-architecture](https://github.com/brandon-a-pinto/go-clean-architecture) - Goのクリーンアーキテクチャ実装例
+
+詳細な学習リソースは [LEARNING_RESOURCES.md](./LEARNING_RESOURCES.md) を参照してください。
